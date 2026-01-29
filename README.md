@@ -6,7 +6,7 @@ A Vencord custom plugin that allows you to launch the Roblox app directly from p
 
 This plugin is designed to be used as a **User Plugin** in Vencord.
 
-**[Vencord Official Guide: Installing User Plugins](https://vencord.dev/docs/installing-user-plugins/)**
+**[How to install User Plugins](https://docs.vencord.dev/installing/custom-plugins/)**
 
 ## Plugin Settings
 
