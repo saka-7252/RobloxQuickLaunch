@@ -1,6 +1,6 @@
 # RobloxQuickLaunch
 
-A Vencord custom plugin that allows you to launch the Roblox app directly from invitation links in Discord, bypassing the web browser.
+A Vencord custom plugin that allows you to launch the Roblox app directly from private server links in Discord, instead of opening the web browser.
 
 ## Installation
 
