@@ -1,2 +1,18 @@
 # RobloxQuickLaunch
-A Vencord plugin that allows you to launch Roblox directly from Discord share links, not opening the browser.
+
+A Vencord custom plugin that allows you to launch the Roblox app directly from invitation links in Discord, bypassing the web browser.
+
+## 🛠 Installation
+
+This plugin is designed to be used as a **User Plugin** in Vencord.
+
+**[Vencord Official Guide: Installing User Plugins](https://vencord.dev/docs/installing-user-plugins/)**
+
+## Plugin Settings
+
+This plugin includes an **"Auto Launch on Click"** option in the settings.
+
+- **Disabled (Default):** You must right-click a Roblox share link and select **"Launch Roblox"** from the context menu.
+- **Enabled:** Left-clicking any Roblox share link will instantly trigger the app to launch.
+
+*Note: You can find these settings in Discord Settings > Vencord > Plugins > RobloxQuickLaunch.*
