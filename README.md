@@ -2,7 +2,7 @@
 
 A Vencord custom plugin that allows you to launch the Roblox app directly from invitation links in Discord, bypassing the web browser.
 
-## 🛠 Installation
+## Installation
 
 This plugin is designed to be used as a **User Plugin** in Vencord.
 
